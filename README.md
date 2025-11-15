@@ -7,9 +7,9 @@
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🛍️ Core E-commerce
+###  Core E-commerce
 - **Product Catalog** - Browse sunglasses, medical glasses, and eyewear accessories
 - **Shopping Cart** - Add/remove items with quantity management
 - **WhatsApp Integration** - Direct ordering via WhatsApp with automatic invoice generation
@@ -22,7 +22,7 @@
 - **State Management** - React Context for cart and user state
 - **Responsive Design** - Mobile-first approach works on all devices
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Framework**: Next.js 14 with App Router
 - **Language**: TypeScript
@@ -31,7 +31,7 @@
 - **State Management**: React Context API
 - **Deployment**: Vercel
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 # Install dependencies
