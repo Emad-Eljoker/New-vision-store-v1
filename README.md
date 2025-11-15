@@ -1,8 +1,10 @@
 # New Vision - Modern Eyewear E-commerce Store
 
-🌐 **Live Demo: https://new-vision-store-nhb3.vercel.app/**
 
-A fully responsive and modern e-commerce website specializing in eyewear products, built with Next.js 14, TypeScript, and Tailwind CSS.
+## Live Preview
+![Website Preview](https://new-vision-store-nhb3.vercel.app/)
+
+A modern e-commerce platform specializing in eyewear products, built with Next.js 14 and TypeScript. Features include product catalog, shopping cart, WhatsApp integration, and automatic invoice generation.
 
 ##  Features
 
