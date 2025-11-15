@@ -15,7 +15,7 @@
 - **WhatsApp Integration** - Direct ordering via WhatsApp with automatic invoice generation
 - **Product Filtering** - Filter by category, brand, and price range
 
-### 💻 Technical Features
+###  Technical Features
 - **Next.js 14** - Latest App Router with Server Components
 - **TypeScript** - Full type safety throughout the application
 - **Tailwind CSS** - Modern, responsive design system
@@ -31,14 +31,21 @@
 - **State Management**: React Context API
 - **Deployment**: Vercel
 
-##  Quick Start
+###  User Experience
+- **Modern UI/UX** - Clean, minimalist design with gold accent colors
+- **Fast Performance** - Optimized images and fast page loads
+- **Intuitive Navigation** - Easy-to-use category and product browsing
+- **Product Details** - High-quality images with zoom functionality
 
-```bash
-# Install dependencies
-npm install
+### Product Management
+- **Multiple Categories** - Men's sunglasses, women's sunglasses, medical glasses, kids' eyewear
+- **Brand Variety** - International and local high-quality brands
+- **Prescription Options** - Custom lens selection (anti-reflective, blue-light, colored)
+- **Real-time Inventory** - Stock management and availability
 
-# Run development server
-npm run dev
+### 🔒 Security & Performance
+- **Secure Payments** - Multiple payment method integration ready
+- **SEO Optimized** - Built-in SEO features for better visibility
+- **Fast Deployment** - Automated CI/CD with Vercel
+- **Type Safety** - Full TypeScript implementation
 
-# Build for production
-npm run build
