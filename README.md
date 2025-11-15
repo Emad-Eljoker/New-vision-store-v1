@@ -1,7 +1,7 @@
 # New Vision - Modern Eyewear E-commerce Store
 
-## 🎯 Live Demo
-[![Live Preview](https://img.shields.io/badge/🚀_View_Live_Demo-Click_Here-brightgreen?style=for-the-badge&logo=vercel)](https://new-vision-store-nhb3.vercel.app/)
+##  Live Demo
+[![Live Preview](https://img.shields.io/badge/_View_Live_Demo-Click_Here-brightgreen?style=for-the-badge&logo=vercel)](https://new-vision-store-nhb3.vercel.app/)
 
 **Experience the full website:** https://new-vision-store-nhb3.vercel.app/
 
