@@ -7,11 +7,6 @@
 
 ---
 
-## 📱 Website Preview
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![Desktop](https://via.placeholder.com/800x450/3B82F6/FFFFFF?text=New+Vision+Desktop) | ![Mobile](https://via.placeholder.com/300x600/3B82F6/FFFFFF?text=New+Vision+Mobile) |
-
 ## ✨ Features
 
 ### 🛍️ Core E-commerce
