@@ -1,12 +1,18 @@
 # New Vision - Modern Eyewear E-commerce Store
 
+## 🎯 Live Demo
+[![Live Preview](https://img.shields.io/badge/🚀_View_Live_Demo-Click_Here-brightgreen?style=for-the-badge&logo=vercel)](https://new-vision-store-nhb3.vercel.app/)
 
-## Live Preview
-![Website Preview](https://new-vision-store-nhb3.vercel.app/)
+**Experience the full website:** https://new-vision-store-nhb3.vercel.app/
 
-A modern e-commerce platform specializing in eyewear products, built with Next.js 14 and TypeScript. Features include product catalog, shopping cart, WhatsApp integration, and automatic invoice generation.
+---
 
-##  Features
+## 📱 Website Preview
+| Desktop View | Mobile View |
+|--------------|-------------|
+| ![Desktop](https://via.placeholder.com/800x450/3B82F6/FFFFFF?text=New+Vision+Desktop) | ![Mobile](https://via.placeholder.com/300x600/3B82F6/FFFFFF?text=New+Vision+Mobile) |
+
+## ✨ Features
 
 ### 🛍️ Core E-commerce
 - **Product Catalog** - Browse sunglasses, medical glasses, and eyewear accessories
@@ -14,32 +20,14 @@ A modern e-commerce platform specializing in eyewear products, built with Next.j
 - **WhatsApp Integration** - Direct ordering via WhatsApp with automatic invoice generation
 - **Product Filtering** - Filter by category, brand, and price range
 
-### Technical Features
+### 💻 Technical Features
 - **Next.js 14** - Latest App Router with Server Components
 - **TypeScript** - Full type safety throughout the application
 - **Tailwind CSS** - Modern, responsive design system
 - **State Management** - React Context for cart and user state
 - **Responsive Design** - Mobile-first approach works on all devices
 
-###  User Experience
-- **Modern UI/UX** - Clean, minimalist design with gold accent colors
-- **Fast Performance** - Optimized images and fast page loads
-- **Intuitive Navigation** - Easy-to-use category and product browsing
-- **Product Details** - High-quality images with zoom functionality
-
-### Product Management
-- **Multiple Categories** - Men's sunglasses, women's sunglasses, medical glasses, kids' eyewear
-- **Brand Variety** - International and local high-quality brands
-- **Prescription Options** - Custom lens selection (anti-reflective, blue-light, colored)
-- **Real-time Inventory** - Stock management and availability
-
-### 🔒 Security & Performance
-- **Secure Payments** - Multiple payment method integration ready
-- **SEO Optimized** - Built-in SEO features for better visibility
-- **Fast Deployment** - Automated CI/CD with Vercel
-- **Type Safety** - Full TypeScript implementation
-
-##  Tech Stack
+## 🛠️ Tech Stack
 
 - **Framework**: Next.js 14 with App Router
 - **Language**: TypeScript
@@ -47,26 +35,8 @@ A modern e-commerce platform specializing in eyewear products, built with Next.j
 - **Icons**: Lucide React
 - **State Management**: React Context API
 - **Deployment**: Vercel
-- **Version Control**: Git & GitHub
 
-##  Pages & Components
-
-- **Homepage** - Featured products and categories
-- **Product Listing** - Filterable product grid
-- **Product Details** - Individual product pages with image gallery
-- **Shopping Cart** - Cart management and checkout
-- **Responsive Header** - Navigation with cart counter
-- **Footer** - Company info and links
-
-# Business Features
-
-- **Direct WhatsApp Orders** - Streamlined purchasing process
-- **Invoice Generation** - Automatic text invoice creation
-- **Prescription Services** - Custom lens options
-- **Fast Delivery** - Shipping integration ready
-- **Customer Support** - Built-in contact channels
-
-# Getting Started
+## 🚀 Quick Start
 
 ```bash
 # Install dependencies
